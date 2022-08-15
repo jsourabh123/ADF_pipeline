@@ -1,0 +1,17 @@
+{
+	"name": "demovmlinks",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "FileServer",
+		"typeProperties": {
+			"host": "D:\\nginx-1.22.0\\nginx-1.22.0\\logs",
+			"userId": "sourabh",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI5OTRlZmRjOC02YTRlLTQyYjMtOWY2MS1mMzgyNWNmODQwMDMiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+		},
+		"connectVia": {
+			"referenceName": "demovm",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}

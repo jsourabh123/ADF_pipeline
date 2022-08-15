@@ -1,0 +1,9 @@
+{
+	"name": "srappfactory5000",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3910d757-b9b6-471b-87c7-6031acad62c6",
+		"tenantId": "40348e03-43a1-408a-a175-75639a195dfc"
+	}
+}
